@@ -1,5 +1,5 @@
 @import "../../wxParse/wxParse.wxss";
-
+@import "../../utils/detail_auto.wxss";
 .art-header{
     position: relative;
     width: 100%;
